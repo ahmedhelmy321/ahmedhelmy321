@@ -66,27 +66,10 @@ Currently, I’m seeking opportunities and collaborations in AI, aiming to grow 
 
 ---
 
-## 📂 Projects
 
 
-<div align="center">
-  <h2> My Projects</h2>
-  
-  <!-- مشروع 1 -->
-  <a href="https://github.com/yourusername/project1" target="_blank">
-    <img src="https://img.shields.io/badge/Project%201-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" />
-  </a>
-  
-  <!-- مشروع 2 -->
-  <a href="https://github.com/yourusername/project2" target="_blank">
-    <img src="https://img.shields.io/badge/Project%202-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project 2" />
-  </a>
-  
-  <!-- مشروع 3 -->
-  <a href="https://github.com/yourusername/project3" target="_blank">
-    <img src="https://img.shields.io/badge/Project%203-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project 3" />
-  </a>
-</div>
+
+
 
 ## 📫 Let's Connect!
 <div align="center">
@@ -104,5 +87,8 @@ Currently, I’m seeking opportunities and collaborations in AI, aiming to grow 
   </a>
  
 </div>
+
+
+## 📂 Projects
 
 
