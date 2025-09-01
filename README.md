@@ -21,15 +21,7 @@ Currently, I’m seeking opportunities and collaborations in AI, aiming to grow 
       
     </td>
   </tr>
-</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minaibrahim&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minaibrahim&theme=dracula" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🚀 Skills & Technologies
 
