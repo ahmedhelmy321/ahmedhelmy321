@@ -66,10 +66,41 @@ Currently, I’m seeking opportunities and collaborations in AI, aiming to grow 
 
 ---
 
+## 📂 Projects
+
+
+<div align="center">
+  <h2> My Projects</h2>
+  
+  <!-- مشروع 1 -->
+  <a href="https://github.com/yourusername/project1" target="_blank">
+    <img src="https://img.shields.io/badge/Project%201-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" />
+  </a>
+  
+  <!-- مشروع 2 -->
+  <a href="https://github.com/yourusername/project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project%202-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project 2" />
+  </a>
+  
+  <!-- مشروع 3 -->
+  <a href="https://github.com/yourusername/project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project%203-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project 3" />
+  </a>
+</div>
+
 ## 📫 Let's Connect!
 <div align="center">
   <a href="mailto:engahmedhelmy026@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+    <a href="tel:+201013465727">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+  
+  
+  <a href="https://www.linkedin.com/in/ahmedhelmy55/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    
   </a>
  
 </div>
