@@ -89,6 +89,4 @@ Currently, I’m seeking opportunities and collaborations in AI, aiming to grow 
 </div>
 
 
-## 📂 Projects
-
 
